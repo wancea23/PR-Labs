@@ -1,0 +1,95 @@
+1a threads=1 time_ms=1717 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=25
+1a threads=2 time_ms=817 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=25
+1a threads=4 time_ms=667 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=25
+1a threads=8 time_ms=567 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=25
+1a threads=16 time_ms=510 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=27
+1a threads=32 time_ms=326 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=28
+1a threads=64 time_ms=445 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=30
+1b-v1-run1 threads=8 time_ms=482 neg=8579041 zero=24 pos=8598364 total=17177429 peak_mb=415 WRONG
+1b-v1-run2 threads=8 time_ms=267 neg=8344806 zero=24 pos=8310760 total=16655590 peak_mb=415 WRONG
+1b-v1-run3 threads=8 time_ms=505 neg=8436333 zero=24 pos=8337082 total=16773439 peak_mb=415 WRONG
+1b-v2 threads=8 time_ms=5039 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=415
+1b-v3 threads=8 time_ms=85 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=415
+1c threads=1 time_ms=3687 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=57
+1c threads=2 time_ms=3810 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=44
+1c threads=4 time_ms=4496 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=43
+1c threads=8 time_ms=6196 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=59
+1c threads=16 time_ms=8023 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=74
+1c threads=32 time_ms=9198 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=105
+1c threads=64 time_ms=9785 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=160
+1a threads=1 time_ms=1372 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=25
+1a threads=2 time_ms=739 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=25
+1a threads=4 time_ms=456 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=25
+1a threads=8 time_ms=641 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=26
+1a threads=16 time_ms=494 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=27
+1a threads=32 time_ms=501 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=28
+1a threads=64 time_ms=675 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=29
+1b-v1-run1 threads=8 time_ms=1093 neg=7723097 zero=24 pos=7903072 total=15626193 peak_mb=415 WRONG
+1b-v1-run2 threads=8 time_ms=475 neg=9026458 zero=24 pos=9004818 total=18031300 peak_mb=415 WRONG
+1b-v1-run3 threads=8 time_ms=1087 neg=7723876 zero=24 pos=7849685 total=15573585 peak_mb=415 WRONG
+1b-v2 threads=8 time_ms=6466 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=415
+1b-v3 threads=8 time_ms=117 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=415
+1c threads=1 time_ms=3549 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=76
+1c threads=2 time_ms=3345 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=52
+1c threads=4 time_ms=4174 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=42
+1c threads=8 time_ms=5353 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=50
+1c threads=16 time_ms=7509 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=72
+1c threads=32 time_ms=9227 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=108
+1c threads=64 time_ms=9817 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=156
+1a threads=1 time_ms=1320 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=25
+1a threads=2 time_ms=774 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=25
+1a threads=4 time_ms=413 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=25
+1a threads=8 time_ms=335 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=26
+1a threads=16 time_ms=318 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=26
+1a threads=32 time_ms=302 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=28
+1a threads=64 time_ms=334 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=29
+1b-v1-run1 threads=8 time_ms=1077 neg=8037749 zero=24 pos=8209742 total=16247515 peak_mb=415 WRONG
+1b-v1-run2 threads=8 time_ms=450 neg=9826431 zero=24 pos=9862640 total=19689095 peak_mb=415 WRONG
+1b-v1-run3 threads=8 time_ms=1081 neg=8681713 zero=24 pos=8903298 total=17585035 peak_mb=415 WRONG
+1b-v2 threads=8 time_ms=7152 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=415
+1b-v3 threads=8 time_ms=76 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=415
+1c threads=1 time_ms=3846 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=84
+1c threads=2 time_ms=4244 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=40
+1c threads=4 time_ms=4040 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=42
+1c threads=8 time_ms=5377 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=52
+1c threads=16 time_ms=7410 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=74
+1c threads=32 time_ms=8782 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=105
+1c threads=64 time_ms=9944 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=159
+1a threads=1 time_ms=1514 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=25
+1a threads=2 time_ms=750 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=25
+1a threads=4 time_ms=442 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=25
+1a threads=8 time_ms=347 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=25
+1a threads=16 time_ms=339 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=26
+1a threads=32 time_ms=280 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=27
+1a threads=64 time_ms=276 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=27
+1b-v1-run1 threads=8 time_ms=1099 neg=8225076 zero=24 pos=8352993 total=16578093 peak_mb=415 WRONG
+1b-v1-run2 threads=8 time_ms=521 neg=8214594 zero=24 pos=8249301 total=16463919 peak_mb=415 WRONG
+1b-v1-run3 threads=8 time_ms=1063 neg=7637121 zero=24 pos=7896006 total=15533151 peak_mb=415 WRONG
+1b-v2 threads=8 time_ms=7058 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=415
+1b-v3 threads=8 time_ms=83 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=415
+1c threads=1 time_ms=3323 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=76
+1c threads=2 time_ms=3337 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=40
+1c threads=4 time_ms=3975 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=42
+1c threads=8 time_ms=5542 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=53
+1c threads=16 time_ms=7415 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=72
+1c threads=32 time_ms=8830 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=105
+1c threads=64 time_ms=9284 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=156
+1a threads=1 time_ms=1377 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=25
+1a threads=2 time_ms=719 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=25
+1a threads=4 time_ms=400 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=25
+1a threads=8 time_ms=375 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=24
+1a threads=16 time_ms=311 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=26
+1a threads=32 time_ms=326 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=27
+1a threads=64 time_ms=278 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=28
+1b-v1-run1 threads=8 time_ms=1064 neg=9447222 zero=24 pos=9619595 total=19066841 peak_mb=415 WRONG
+1b-v1-run2 threads=8 time_ms=502 neg=8667071 zero=24 pos=8704936 total=17372031 peak_mb=415 WRONG
+1b-v1-run3 threads=8 time_ms=1078 neg=10181687 zero=24 pos=10305557 total=20487268 peak_mb=415 WRONG
+1b-v2 threads=8 time_ms=6329 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=415
+1b-v3 threads=8 time_ms=66 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=415
+1c threads=1 time_ms=3697 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=78
+1c threads=2 time_ms=3864 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=40
+1c threads=4 time_ms=4255 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=41
+1c threads=8 time_ms=4919 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=51
+1c threads=16 time_ms=7291 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=71
+1c threads=32 time_ms=9390 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=105
+1c threads=64 time_ms=9287 neg=25005087 zero=24 pos=24994889 total=50000000 peak_mb=164
