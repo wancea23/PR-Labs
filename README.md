@@ -7,6 +7,7 @@ Laboratory works for the Network Programming course (PR) at the Technical Univer
 | Lab | Topic | Status | Report |
 |-----|-------|--------|--------|
 | Lab1 | Concurrency in practice | Done | [Lab1/Lab1_IonMorosanu_FAF-242.pdf](Lab1/Lab1_IonMorosanu_FAF-242.pdf) |
+| Lab2 | A coffee shop server (TCP sockets) | Done | [Lab2/Lab2_IonMorosanu_FAF-242.pdf](Lab2/Lab2_IonMorosanu_FAF-242.pdf) |
 
 ## Lab1: Concurrency in practice
 
@@ -35,3 +36,8 @@ dotnet run -c Release -- 2 E:\prlab1 4
 ```
 
 `run_task1.ps1` runs every configuration of Task 1 five times. `run_task2.ps1 -Drive E` copies the 8 files to the USB drive and waits for it to be unplugged and plugged back in before every run. The measurements used in the report are in `Lab1/results`.
+
+## Lab2: A coffee shop server
+
+A TCP server, a client and a provider in C#, on the `Socket` class only. Build and run instructions,
+the protocol and the design are in [Lab2/README.md](Lab2/README.md).
