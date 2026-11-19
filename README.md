@@ -8,6 +8,7 @@ Laboratory works for the Network Programming course (PR) at the Technical Univer
 |-----|-------|--------|--------|
 | Lab1 | Concurrency in practice | Done | [Lab1/Lab1_IonMorosanu_FAF-242.pdf](Lab1/Lab1_IonMorosanu_FAF-242.pdf) |
 | Lab2 | A coffee shop server (TCP sockets) | Done | [Lab2/Lab2_IonMorosanu_FAF-242.pdf](Lab2/Lab2_IonMorosanu_FAF-242.pdf) |
+| Lab3 | A local network chat (UDP, multicast, encryption) | Done | [Lab3/Lab3_IonMorosanu_FAF-242.pdf](Lab3/Lab3_IonMorosanu_FAF-242.pdf) |
 
 ## Lab1: Concurrency in practice
 
@@ -41,3 +42,9 @@ dotnet run -c Release -- 2 E:\prlab1 4
 
 A TCP server, a client and a provider in C#, on the `Socket` class only. Build and run instructions,
 the protocol and the design are in [Lab2/README.md](Lab2/README.md).
+
+## Lab3: A local network chat
+
+A serverless chat on UDP sockets in C#: multicast general channel, unicast private messages encrypted with
+AES-GCM, plus a second peer in Python. Build and run instructions, the message format and the design are in
+[Lab3/README.md](Lab3/README.md).
